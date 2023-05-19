@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="Test">
+	  
+	<parameter name="email" value="munazzagill17@gmail.com"></parameter>
+	<parameter name="pass" value="Mkg@012345"></parameter>
+	<parameter name="zip" value="28262"></parameter>
+	<parameter name="phone" value="9808888888"></parameter>       
+    <classes>
+      <class name="SeleniumTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
